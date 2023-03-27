@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/intertext_files_merger/__init__.py
+src/intertext_files_merger/alignment_merger.py
+src/intertext_files_merger/e2.py
+src/intertext_files_merger/filename_regrouper.py
+src/intertext_files_merger/text_merger.py
+src/project_name.egg-info/PKG-INFO
+src/project_name.egg-info/SOURCES.txt
+src/project_name.egg-info/dependency_links.txt
+src/project_name.egg-info/requires.txt
+src/project_name.egg-info/top_level.txt
+tests/test_filename_regrouper.py
+tests/test_text_merger.py
